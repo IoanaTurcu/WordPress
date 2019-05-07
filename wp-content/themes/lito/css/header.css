@@ -1,0 +1,43 @@
+}
+.hero {
+	padding: 35px 70px;
+	margin: 0 auto;
+}
+/*================/TITLE LOGO/================*/
+.logo {
+	display: inline-block;
+	float: left;
+	font-family: Calibri;
+	font-size: 30px;
+	line-height: 30px;
+	text-transform: uppercase;
+	color: #000;
+	font-family: 'PT Serif', serif;
+    font-family: 'Inconsolata', monospace;
+    letter-spacing: 4px;
+}
+.logo a:link, :hover, :active, :visited {
+	text-decoration: none;
+	color: #000;
+}
+/*================/MENU/================*/		
+nav {
+	padding: 3px 0;
+}
+nav ul a {
+	display: inline-block;
+	margin:0px 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	float: right;
+	font: 400 14px "Playfair Display";
+	line-height: 14px;
+	text-transform: uppercase;
+}
+/*================/HERO IMAGE/================*/
+header img {
+	display: block;
+	margin: 100px 0;
+	width: 100%;
+	height: auto;
+}
